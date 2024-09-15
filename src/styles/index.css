@@ -28,5 +28,7 @@
 
 .main {
     max-inline-size: var(--desktop);
+    padding-inline: var(--space-3xl);
+    padding-block: var(--space-xl);
     margin: auto;
 }
