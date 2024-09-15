@@ -1,0 +1,36 @@
+:root {
+    /*colors*/
+    --black-100: #070F10;
+    --white: #fff;
+
+    /*screens*/
+    --desktop: 1440px;
+
+    /*headings*/
+    --h1: 48px;
+    --h2: 40px;
+    --h3: 32px;
+    --h4: 28px;
+    --h5: 24px;
+    --h6: 18px;
+    --p: 16px;
+
+    /*line-heights*/
+    --h1-lh: 56px;
+    --h2-lh: 48px;
+    --h3-lh: 40px;
+    --h4-lh: 36px;
+    --h5-lh: 32px;
+    --h6-lh: 26px;
+    --p-lh: 24px;
+
+    /*spaces*/
+    --space-xs: 4px;
+    --space-s: 8px;
+    --space-m: 16px;
+    --space-lg: 24px;
+    --space-xl: 32px;
+    --space-2xl: 40px;
+    --space-3xl: 64px;
+}
+
